@@ -13,9 +13,9 @@ import os
 
 os.environ['KAGGLE_API_TOKEN'] = "KGAT_4ed8fd8a3a08c9654f501f4b33c5edbf"
 
-!kaggle datasets download -d shayanfazeli/heartbeat
-!unzip -q heartbeat.zip
-!ls
+os.system("kaggle datasets download -d shayanfazeli/heartbeat")
+os.system("unzip -q heartbeat.zip")
+os.system("ls")
 
 """Data Loading & Preprocessing"""
 
