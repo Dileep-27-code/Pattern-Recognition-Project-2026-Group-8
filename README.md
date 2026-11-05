@@ -121,7 +121,7 @@ To investigate and compare different feature extraction techniques and classical
 ## Contributors
 
 - P. Dileep Kumar [S20240020323]
-- M. Jaswanth [S20240020303]
+- M. Jaswanth [S20240020302]
 
   
 Pattern Recognition Project - Monsoon 2026
